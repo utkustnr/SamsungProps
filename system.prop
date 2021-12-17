@@ -17,13 +17,13 @@ ro.product.product.device=raven
 ro.product.product.manufacturer=Google
 ro.product.product.model=Pixel 6 Pro
 ro.product.product.name=raven
-ro.product.build.date=Fri Oct  8 09:11:33 UTC 2021
-ro.product.build.date.utc=1633684293
-ro.product.build.fingerprint=google/raven/raven:12/SD1A.210817.036/7805805:user/release-keys
-ro.product.build.id=SD1A.210817.036
+ro.product.build.date=Wed Dec  1 05:17:43 UTC 2021
+ro.product.build.date.utc=1638335863
+ro.product.build.fingerprint=google/raven/raven:12/SQ1D.211205.016.A1/7957957:user/release-keys
+ro.product.build.id=SQ1D.211205.016.A1
 ro.product.build.tags=release-keys
 ro.product.build.type=user
-ro.product.build.version.incremental=7805805
+ro.product.build.version.incremental=7957957
 ro.product.build.version.release=12
 ro.product.build.version.release_or_codename=12
 ro.product.build.version.sdk=31
@@ -56,20 +56,20 @@ ro.product.vendor.device=raven
 ro.product.vendor.manufacturer=Google
 ro.product.vendor.model=Pixel 6 Pro
 ro.product.vendor.name=raven
-ro.vendor.build.date=Fri Oct  8 09:11:33 UTC 2021
-ro.vendor.build.date.utc=1633684293
-ro.vendor.build.fingerprint=google/raven/raven:12/SD1A.210817.036/7805805:user/release-keys
-ro.vendor.build.id=SD1A.210817.036
+ro.vendor.build.date=Wed Dec  1 05:17:43 UTC 2021
+ro.vendor.build.date.utc=1638335863
+ro.vendor.build.fingerprint=google/raven/raven:12/SQ1D.211205.016.A1/7957957:user/release-keys
+ro.vendor.build.id=SQ1D.211205.016.A1
 ro.vendor.build.tags=release-keys
 ro.vendor.build.type=user
-ro.vendor.build.version.incremental=7805805
+ro.vendor.build.version.incremental=7957957
 ro.vendor.build.version.release=12
 ro.vendor.build.version.release_or_codename=12
 ro.vendor.build.version.sdk=31
 # end common build properties
 
 # begin ADDITIONAL_VENDOR_PROPERTIES
-ro.vendor.build.security_patch=2021-11-05
+ro.vendor.build.security_patch=2021-12-05
 ro.product.board=raven
 # end ADDITIONAL_VENDOR_PROPERTIES
 
@@ -79,9 +79,9 @@ ro.soc.model=Tensor
 # end PRODUCT_VENDOR_PROPERTIES
 
 # begin BOOTIMAGE_BUILD_PROPERTIES
-ro.bootimage.build.date=Fri Oct  8 09:11:33 UTC 2021
-ro.bootimage.build.date.utc=1633684293
-ro.bootimage.build.fingerprint=google/raven/raven:12/SD1A.210817.015.A4/7697517:user/release-keys
+ro.bootimage.build.date=Wed Dec  1 05:17:43 UTC 2021
+ro.bootimage.build.date.utc=1638335863
+ro.bootimage.build.fingerprint=google/raven/raven:12/SQ1D.211205.016.A1/7957957:user/release-keys
 # end BOOTIMAGE_BUILD_PROPERTIES
 
 # begin PRODUCT_PROPERTY_OVERRIDES
@@ -107,41 +107,41 @@ ro.product.system.device=generic
 ro.product.system.manufacturer=Google
 ro.product.system.model=mainline
 ro.product.system.name=mainline
-ro.system.build.date=Fri Oct  8 09:11:33 UTC 2021
-ro.system.build.date.utc=1633684293
-ro.system.build.fingerprint=google/raven/raven:12/SD1A.210817.036/7805805:user/release-keys
-ro.system.build.id=SD1A.210817.036
+ro.system.build.date=Wed Dec  1 05:17:43 UTC 2021
+ro.system.build.date.utc=1638335863
+ro.system.build.fingerprint=google/raven/raven:12/SQ1D.211205.016.A1/7957957:user/release-keys
+ro.system.build.id=SQ1D.211205.016.A1
 ro.system.build.tags=release-keys
 ro.system.build.type=user
-ro.system.build.version.incremental=7805805
+ro.system.build.version.incremental=7957957
 ro.system.build.version.release=12
 ro.system.build.version.release_or_codename=12
 ro.system.build.version.sdk=31
 # end common build properties
 
 # begin build properties
-ro.build.id=SD1A.210817.036
-ro.build.display.id=SD1A.210817.036
-ro.build.version.incremental=7805805
+ro.build.id=SQ1D.211205.016.A1
+ro.build.display.id=SQ1D.211205.016.A1
+ro.build.version.incremental=7957957
 ro.build.version.sdk=31 # SDK Unsafe
 ro.build.version.release=12
 ro.build.version.release_or_codename=12
-ro.build.version.security_patch=2021-11-05
-ro.build.date=Fri Oct  8 09:11:33 UTC 2021
-ro.build.date.utc=1633684293
+ro.build.version.security_patch=2021-12-05
+ro.build.date=Wed Dec  1 05:17:43 UTC 2021
+ro.build.date.utc=1638335863
 ro.build.type=user
 ro.build.user=android-build
-ro.build.host=abfarm-release-rbe-64-00061
+ro.build.host=abfarm-release-rbe-64-00035
 ro.build.tags=release-keys
 ro.build.flavor=raven-user
 # ro.build.product is obsolete; use ro.product.device
 ro.build.product=raven
 # Do not try to parse description or thumbprint
-ro.build.description=raven-user 12 SD1A.210817.036 7805805 release-keys
+ro.build.description=raven-user 12 SQ1D.211205.016.A1 7957957 release-keys
 # end build properties
 
 # begin extra's from /system/build.prop
-ro.build.fingerprint=google/raven/raven:12/SD1A.210817.036/7805805:user/release-keys
+ro.build.fingerprint=google/raven/raven:12/SQ1D.211205.016.A1/7957957:user/release-keys
 ro.product.brand=google
 ro.product.device=raven
 ro.product.manufacturer=Google
@@ -167,13 +167,13 @@ ro.product.system_ext.device=raven
 ro.product.system_ext.manufacturer=Google
 ro.product.system_ext.model=Pixel 6 Pro
 ro.product.system_ext.name=raven
-ro.system_ext.build.date=Fri Oct  8 09:11:33 UTC 2021
-ro.system_ext.build.date.utc=1633684293
-ro.system_ext.build.fingerprint=google/raven/raven:12/SD1A.210817.036/7805805:user/release-keys
-ro.system_ext.build.id=SD1A.210817.036
+ro.system_ext.build.date=Wed Dec  1 05:17:43 UTC 2021
+ro.system_ext.build.date.utc=1638335863
+ro.system_ext.build.fingerprint=google/raven/raven:12/SQ1D.211205.016.A1/7957957:user/release-keys
+ro.system_ext.build.id=SQ1D.211205.016.A1
 ro.system_ext.build.tags=release-keys
 ro.system_ext.build.type=user
-ro.system_ext.build.version.incremental=7805805
+ro.system_ext.build.version.incremental=7957957
 ro.system_ext.build.version.release=12
 ro.system_ext.build.version.release_or_codename=12
 ro.system_ext.build.version.sdk=31
@@ -197,13 +197,13 @@ ro.product.odm.device=raven
 ro.product.odm.manufacturer=Google
 ro.product.odm.model=Pixel 6 Pro
 ro.product.odm.name=raven
-ro.odm.build.date=Fri Oct  8 09:11:33 UTC 2021
-ro.odm.build.date.utc=1633684293
-ro.odm.build.fingerprint=google/raven/raven:12/SD1A.210817.036/7805805:user/release-keys
-ro.odm.build.id=SD1A.210817.036
+ro.odm.build.date=Wed Dec  1 05:17:43 UTC 2021
+ro.odm.build.date.utc=1638335863
+ro.odm.build.fingerprint=google/raven/raven:12/SQ1D.211205.016.A1/7957957:user/release-keys
+ro.odm.build.id=SQ1D.211205.016.A1
 ro.odm.build.tags=release-keys
 ro.odm.build.type=user
-ro.odm.build.version.incremental=7805805
+ro.odm.build.version.incremental=7957957
 ro.odm.build.version.release=12
 ro.odm.build.version.release_or_codename=12
 ro.odm.build.version.sdk=31
