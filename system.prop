@@ -70,8 +70,6 @@ ro.vendor.build.version.sdk=31
 
 # begin ADDITIONAL_VENDOR_PROPERTIES
 ro.vendor.build.security_patch=2022-01-05
-ro.product.board=raven
-ro.board.platform=gs101
 # end ADDITIONAL_VENDOR_PROPERTIES
 
 # begin PRODUCT_VENDOR_PROPERTIES
