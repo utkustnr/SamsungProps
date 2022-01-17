@@ -73,8 +73,6 @@ ro.vendor.build.security_patch=2022-01-05
 # end ADDITIONAL_VENDOR_PROPERTIES
 
 # begin PRODUCT_VENDOR_PROPERTIES
-ro.soc.manufacturer=Google
-ro.soc.model=Tensor
 persist.vendor.camera.exif_reveal_make_model=true
 # end PRODUCT_VENDOR_PROPERTIES
 
