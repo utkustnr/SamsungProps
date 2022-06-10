@@ -17,13 +17,13 @@ ro.product.product.device=raven
 ro.product.product.manufacturer=Google
 ro.product.product.model=Pixel 6 Pro
 ro.product.product.name=raven
-ro.product.build.date=Thu Mar 24 18:56:19 UTC 2022
-ro.product.build.date.utc=1648148179
-ro.product.build.fingerprint=google/raven/raven:12/SP2A.220505.002/8353555:user/release-keys
-ro.product.build.id=SP2A.220505.002
+ro.product.build.date=Thu May 26 22:22:33 UTC 2022
+ro.product.build.date.utc=1653603753
+ro.product.build.fingerprint=google/raven/raven:12/SQ3A.220605.009.B1/8650216:user/release-keys
+ro.product.build.id=SQ3A.220605.009.B1
 ro.product.build.tags=release-keys
 ro.product.build.type=user
-ro.product.build.version.incremental=8353555
+ro.product.build.version.incremental=8650216
 ro.product.build.version.release=12
 ro.product.build.version.release_or_codename=12
 ro.product.build.version.sdk=32
@@ -56,27 +56,27 @@ ro.product.vendor.device=raven
 ro.product.vendor.manufacturer=Google
 ro.product.vendor.model=Pixel 6 Pro
 ro.product.vendor.name=raven
-ro.vendor.build.date=Thu Mar 24 18:56:19 UTC 2022
-ro.vendor.build.date.utc=1648148179
-ro.vendor.build.fingerprint=google/raven/raven:12/SP2A.220505.002/8353555:user/release-keys
-ro.vendor.build.id=SP2A.220505.002
+ro.vendor.build.date=Thu May 26 22:22:33 UTC 2022
+ro.vendor.build.date.utc=1653603753
+ro.vendor.build.fingerprint=google/raven/raven:12/SQ3A.220605.009.B1/8650216:user/release-keys
+ro.vendor.build.id=SQ3A.220605.009.B1
 ro.vendor.build.tags=release-keys
 ro.vendor.build.type=user
-ro.vendor.build.version.incremental=8353555
+ro.vendor.build.version.incremental=8650216
 ro.vendor.build.version.release=12
 ro.vendor.build.version.release_or_codename=12
 ro.vendor.build.version.sdk=32
 # end common build properties
 
 # begin ADDITIONAL_VENDOR_PROPERTIES
-ro.vendor.build.security_patch=2022-05-05
+ro.vendor.build.security_patch=2022-06-05
 # end ADDITIONAL_VENDOR_PROPERTIES
 
-# begin BOOTIMAGE_BUILD_PROPERTIES
-ro.bootimage.build.date=Thu Mar 24 18:56:19 UTC 2022
-ro.bootimage.build.date.utc=1648148179
-ro.bootimage.build.fingerprint=google/raven/raven:12/SP2A.220505.002/8353555:user/release-keys
-# end BOOTIMAGE_BUILD_PROPERTIES
+# begin BOOTIMAGE_build_prop to_system_propERTIES
+ro.bootimage.build.date=Thu May 26 22:22:33 UTC 2022
+ro.bootimage.build.date.utc=1653603753
+ro.bootimage.build.fingerprint=google/raven/raven:12/SQ3A.220605.009.B1/8650216:user/release-keys
+# end BOOTIMAGE_build_prop to_system_propERTIES
 
 # begin PRODUCT_PROPERTY_OVERRIDES
 persist.rcs.supported=1
@@ -101,13 +101,13 @@ ro.product.odm.device=raven
 ro.product.odm.manufacturer=Google
 ro.product.odm.model=Pixel 6 Pro
 ro.product.odm.name=raven
-ro.odm.build.date=Thu Mar 24 18:56:19 UTC 2022
-ro.odm.build.date.utc=1648148179
-ro.odm.build.fingerprint=google/raven/raven:12/SP2A.220505.002/8353555:user/release-keys
-ro.odm.build.id=SP2A.220505.002
+ro.odm.build.date=Thu May 26 22:22:33 UTC 2022
+ro.odm.build.date.utc=1653603753
+ro.odm.build.fingerprint=google/raven/raven:12/SQ3A.220605.009.B1/8650216:user/release-keys
+ro.odm.build.id=SQ3A.220605.009.B1
 ro.odm.build.tags=release-keys
 ro.odm.build.type=user
-ro.odm.build.version.incremental=8353555
+ro.odm.build.version.incremental=8650216
 ro.odm.build.version.release=12
 ro.odm.build.version.release_or_codename=12
 ro.odm.build.version.sdk=32
@@ -131,39 +131,39 @@ ro.product.system.device=generic
 ro.product.system.manufacturer=Google
 ro.product.system.model=mainline
 ro.product.system.name=mainline
-ro.system.build.date=Thu Mar 24 18:56:19 UTC 2022
-ro.system.build.date.utc=1648148179
-ro.system.build.fingerprint=google/raven/raven:12/SP2A.220505.002/8353555:user/release-keys
-ro.system.build.id=SP2A.220505.002
+ro.system.build.date=Thu May 26 22:22:33 UTC 2022
+ro.system.build.date.utc=1653603753
+ro.system.build.fingerprint=google/raven/raven:12/SQ3A.220605.009.B1/8650216:user/release-keys
+ro.system.build.id=SQ3A.220605.009.B1
 ro.system.build.tags=release-keys
 ro.system.build.type=user
-ro.system.build.version.incremental=8353555
+ro.system.build.version.incremental=8650216
 ro.system.build.version.release=12
 ro.system.build.version.release_or_codename=12
 ro.system.build.version.sdk=32
 # end common build properties
 
 # begin build properties
-ro.build.id=SP2A.220505.002
-ro.build.display.id=SP2A.220505.002
-ro.build.version.incremental=8353555
+ro.build.id=SQ3A.220605.009.B1
+ro.build.display.id=SQ3A.220605.009.B1
+ro.build.version.incremental=8650216
 ro.build.version.sdk=32
 ro.build.version.release=12
 ro.build.version.release_or_codename=12
-ro.build.version.security_patch=2022-05-05
-ro.build.date=Thu Mar 24 18:56:19 UTC 2022
-ro.build.date.utc=1648148179
+ro.build.version.security_patch=2022-06-05
+ro.build.date=Thu May 26 22:22:33 UTC 2022
+ro.build.date.utc=1653603753
 ro.build.type=user
 ro.build.user=android-build
-ro.build.host=abfarm-00923
+ro.build.host=abfarm-01336
 ro.build.tags=release-keys
 ro.build.flavor=raven-user
 ro.build.product=raven
-ro.build.description=raven-user 12 SP2A.220505.002 8353555 release-keys
+ro.build.description=raven-user 12 SQ3A.220605.009.B1 8650216 release-keys
 # end build properties
 
 # begin extra's from /system/build.prop
-ro.build.fingerprint=google/raven/raven:12/SP2A.220505.002/8353555:user/release-keys
+ro.build.fingerprint=google/raven/raven:12/SQ3A.220605.009.B1/8650216:user/release-keys
 ro.product.brand=google
 ro.product.device=raven
 ro.product.manufacturer=Google
@@ -189,13 +189,13 @@ ro.product.system_ext.device=raven
 ro.product.system_ext.manufacturer=Google
 ro.product.system_ext.model=Pixel 6 Pro
 ro.product.system_ext.name=raven
-ro.system_ext.build.date=Thu Mar 24 18:56:19 UTC 2022
-ro.system_ext.build.date.utc=1648148179
-ro.system_ext.build.fingerprint=google/raven/raven:12/SP2A.220505.002/8353555:user/release-keys
-ro.system_ext.build.id=SP2A.220505.002
+ro.system_ext.build.date=Thu May 26 22:22:33 UTC 2022
+ro.system_ext.build.date.utc=1653603753
+ro.system_ext.build.fingerprint=google/raven/raven:12/SQ3A.220605.009.B1/8650216:user/release-keys
+ro.system_ext.build.id=SQ3A.220605.009.B1
 ro.system_ext.build.tags=release-keys
 ro.system_ext.build.type=user
-ro.system_ext.build.version.incremental=8353555
+ro.system_ext.build.version.incremental=8650216
 ro.system_ext.build.version.release=12
 ro.system_ext.build.version.release_or_codename=12
 ro.system_ext.build.version.sdk=32
