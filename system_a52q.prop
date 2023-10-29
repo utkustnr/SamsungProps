@@ -1,0 +1,129 @@
+##
+# Based on Pixel Props https://t.me/PixelProps by @T3SL4
+# Modified for Samsung usage by @Simon1511
+##
+
+###
+#-#
+###
+
+###
+# begin product/etc/build.prop
+###
+
+# begin common build properties
+ro.product.product.brand=samsung
+ro.product.product.device=a52q
+ro.product.product.manufacturer=samsung
+ro.product.product.model=SM-A525F
+ro.product.product.name=a52qnsxx
+ro.product.build.fingerprint=samsung/a52qnsxx/a52q:11/RP1A.200720.012/A525FXXS5DWD1:user/release-keys
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+# end common build properties
+
+###
+# end product/etc/build.prop
+###
+
+###
+# begin vendor/build.prop
+###
+
+# begin common build properties
+ro.product.vendor.brand=samsung
+ro.product.vendor.device=a52q
+ro.product.vendor.manufacturer=samsung
+ro.product.vendor.model=SM-A525F
+ro.product.vendor.name=a52qnsxx
+ro.vendor.build.fingerprint=samsung/a52qnsxx/a52q:11/RP1A.200720.012/A525FXXS5DWD1:user/release-keys
+ro.vendor.build.tags=release-keys
+ro.vendor.build.type=user
+# end common build properties
+
+# begin ADDITIONAL_VENDOR_PROPERTIES
+ro.vendor.build.security_patch=2023-04-01
+# end ADDITIONAL_VENDOR_PROPERTIES
+
+# begin BOOTIMAGE_build_prop to_system_propERTIES
+ro.bootimage.build.fingerprint=samsung/a52qnsxx/a52q:11/RP1A.200720.012/A525FXXS5DWD1:user/release-keys
+# end BOOTIMAGE_build_prop to_system_propERTIES
+
+###
+# end vendor/build.prop
+###
+
+###
+# begin vendor/odm/etc/build.prop
+###
+
+# begin common build properties
+ro.product.odm.brand=samsung
+ro.product.odm.device=a52q
+ro.product.odm.manufacturer=samsung
+ro.product.odm.model=SM-A525F
+ro.product.odm.name=a52qnsxx
+ro.odm.build.fingerprint=samsung/a52qnsxx/a52q:11/RP1A.200720.012/A525FXXS5DWD1:user/release-keys
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+# end common build properties
+
+###
+# end vendor/odm/etc/build.prop
+###
+
+###
+# begin system/system/build.prop
+###
+
+# begin common build properties
+ro.product.system.brand=samsung
+ro.product.system.device=a52q
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-A525F
+ro.product.system.name=a52qnsxx
+ro.system.build.fingerprint=samsung/a52qnsxx/a52q:11/RP1A.200720.012/A525FXXS5DWD1:user/release-keys
+ro.system.build.tags=release-keys
+ro.system.build.type=user
+# end common build properties
+
+# begin build properties
+ro.build.version.security_patch=2023-04-01
+ro.build.type=user
+ro.build.tags=release-keys
+ro.build.flavor=a52qnsxx-user
+ro.build.product=a52q
+ro.build.description=a52qnsxx-user 11 RP1A.200720.012 A525FXXS5DWD1 release-keys
+# end build properties
+
+# begin extra's from /system/build.prop
+ro.build.fingerprint=samsung/a52qnsxx/a52q:11/RP1A.200720.012/A525FXXS5DWD1:user/release-keys
+ro.product.brand=samsung
+ro.product.device=a52q
+ro.product.manufacturer=samsung
+ro.product.model=SM-A525F
+ro.product.name=a52qnsxx
+# end extra's from /system/build.prop
+
+###
+# end system/system/build.prop
+###
+
+###
+# begin system_ext/etc/build.prop
+###
+
+# begin common build properties
+ro.product.system_ext.brand=samsung
+ro.product.system_ext.device=a52q
+ro.product.system_ext.manufacturer=samsung
+ro.product.system_ext.model=SM-A525F
+ro.product.system_ext.name=a52qnsxx
+ro.system_ext.build.fingerprint=samsung/a52qnsxx/a52q:11/RP1A.200720.012/A525FXXS5DWD1:user/release-keys
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+# end common build properties
+
+###
+# end system_ext/etc/build.prop
+###
